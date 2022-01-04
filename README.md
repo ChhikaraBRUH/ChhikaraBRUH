@@ -31,4 +31,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChhikaraBRUH&show_icons=true&&&hide=issues&count_private=true" alt="ChhikaraBRUH" /></p>
+<h3 align="left">My Stats:</h3>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChhikaraBRUH&show_icons=true&&&hide=issues&count_private=true" alt="ChhikaraBRUH" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChhikaraBRUH&" alt="ChhikaraBRUH" /></p>
